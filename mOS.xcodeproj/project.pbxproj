@@ -23,14 +23,14 @@
 		0E687AA71411E2C0004799FD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0E687AA91411E2C0004799FD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0E687AAB1411E2C0004799FD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		0E687AAF1411E2C0004799FD /* mOS-Info.plist */ = {isa = PBXFileReference; path = "mOS-Info.plist"; sourceTree = "<group>"; };
+		0E687AAF1411E2C0004799FD /* mOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "mOS-Info.plist"; sourceTree = "<group>"; };
 		0E687AB11411E2C0004799FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0E687AB31411E2C0004799FD /* mOS-Prefix.pch */ = {isa = PBXFileReference; path = "mOS-Prefix.pch"; sourceTree = "<group>"; };
+		0E687AB31411E2C0004799FD /* mOS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mOS-Prefix.pch"; sourceTree = "<group>"; };
 		0E687AB41411E2C0004799FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0E687AB61411E2C0004799FD /* mOSAppDelegate.h */ = {isa = PBXFileReference; path = mOSAppDelegate.h; sourceTree = "<group>"; };
+		0E687AB61411E2C0004799FD /* mOSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mOSAppDelegate.h; sourceTree = "<group>"; };
 		0E687AB71411E2C0004799FD /* mOSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mOSAppDelegate.m; sourceTree = "<group>"; };
 		0E687ABA1411E2C0004799FD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		0E687ABC1411E2C0004799FD /* mOSViewController.h */ = {isa = PBXFileReference; path = mOSViewController.h; sourceTree = "<group>"; };
+		0E687ABC1411E2C0004799FD /* mOSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mOSViewController.h; sourceTree = "<group>"; };
 		0E687ABD1411E2C0004799FD /* mOSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mOSViewController.m; sourceTree = "<group>"; };
 		0E687AC01411E2C0004799FD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/mOSViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
